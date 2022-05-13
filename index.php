@@ -3,7 +3,6 @@
 class ParentClass{
   public function data() {
     return [];
-  }
 }
 
 class ChildClass extends ParentClass{
